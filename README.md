@@ -6,3 +6,16 @@ Power BI Data Professional Dashboard analyzing survey responses from data profes
 
 If you find this project valuable, consider giving it a ⭐ and sharing your feedback or suggestions. Your support and contributions are always appreciated!
  </a>
+
+### KPI Questions for the Employee Resignation Dashboard
+
+* What is the average salary of data professionals?
+* Which job role earns the highest average salary?
+* What is the most preferred programming language?
+* Which country has the highest number of survey respondents?
+* What is the average job satisfaction score?
+* What is the average work-life balance rating?
+* Which job title is most common among respondents?
+* How satisfied are professionals with their salaries?
+* What are the demographics of data professionals?
+* What factors influence job satisfaction and career choices?
