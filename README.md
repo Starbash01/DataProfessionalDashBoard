@@ -39,4 +39,15 @@ If you find this project valuable, consider giving it a ⭐ and sharing your fee
     * How difficult it was to break into data
 
   * Incorporated gauge charts to show:
-    *
+    * Happiness with work/Life Balance
+    * Happiness with salary
+ 
+11. Enabled cross-filtering across visuals for deeper insights.
+12. Tested user interactions and dashboard responsiveness.
+
+### Outcome
+
+The dashboard delivers a comprehensive overview of the data profession, helping students, aspiring analysts, recruiters, and organizations understand industry trends, compensation patterns, and factors influencing professional satisfaction and career growth.
+
+## DashBoard Interaction
+- <a href="https://github.com/Starbash01/DataProfessionalDashBoard/blob/main/Data%20Professional%20Dashboard.pdf"> View DashBoard </a>
