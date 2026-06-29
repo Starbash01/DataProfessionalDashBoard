@@ -51,3 +51,7 @@ The dashboard delivers a comprehensive overview of the data profession, helping 
 
 ## DashBoard Interaction
 - <a href="https://github.com/Starbash01/DataProfessionalDashBoard/blob/main/Data%20Professional%20Dashboard.pdf"> View DashBoard </a>
+
+## DashBoard
+
+<img width="1508" height="861" alt="Data Professional DashBoard" src="https://github.com/user-attachments/assets/848bae9f-6c4d-4e66-8c79-bf4bb3a51ef3" />
